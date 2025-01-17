@@ -1,4 +1,4 @@
-# SAFE 4 CHILD
+<!-- # SAFE 4 CHILD
 
  ## Educational and Training Materials
 - [Material 1](https://github.com/HUNGNGUYEN115/safe4child.github.io)
@@ -24,4 +24,4 @@ Guidelines for Training the Trainers
 Reference information 
 
 ## Safe4Child Results
-Project results
+Project results -->
