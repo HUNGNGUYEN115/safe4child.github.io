@@ -1,6 +1,6 @@
 # SAFE 4 CHILD
 
-## Educational and Training Materials
+ ## Educational and Training Materials
 - [Material 1](https://github.com/HUNGNGUYEN115/safe4child.github.io)
 - [Material 2](https://github.com/HUNGNGUYEN115/safe4child.github.io)
   
